@@ -17,6 +17,7 @@
     <object>objects\obj_Wall</object>
     <object>objects\obj_Brick</object>
     <object>objects\obj_Bat</object>
+    <object>objects\obj_Ball</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
