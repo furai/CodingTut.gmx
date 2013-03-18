@@ -16,6 +16,7 @@
   <objects name="objects">
     <object>objects\obj_Wall</object>
     <object>objects\obj_Brick</object>
+    <object>objects\obj_Bat</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
@@ -23,6 +24,6 @@
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>4</TutorialPage>
+    <TutorialPage>6</TutorialPage>
   </TutorialState>
 </assets>
