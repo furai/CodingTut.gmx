@@ -19,12 +19,15 @@
     <object>objects\obj_Bat</object>
     <object>objects\obj_Ball</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_Game</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>6</TutorialPage>
+    <TutorialPage>7</TutorialPage>
   </TutorialState>
 </assets>
