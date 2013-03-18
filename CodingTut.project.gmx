@@ -19,12 +19,15 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\object0</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>2</TutorialPage>
+    <TutorialPage>3</TutorialPage>
   </TutorialState>
 </assets>
