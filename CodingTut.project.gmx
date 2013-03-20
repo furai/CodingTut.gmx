@@ -10,6 +10,7 @@
     <sprite>sprites\spr_Bat</sprite>
     <sprite>sprites\spr_Brick</sprite>
     <sprite>sprites\spr_Wall</sprite>
+    <sprite>sprites\spr_Score</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -18,6 +19,7 @@
     <object>objects\obj_Brick</object>
     <object>objects\obj_Bat</object>
     <object>objects\obj_Ball</object>
+    <object>objects\obj_Control</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_Game</room>
@@ -28,6 +30,6 @@
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>7</TutorialPage>
+    <TutorialPage>8</TutorialPage>
   </TutorialState>
 </assets>
