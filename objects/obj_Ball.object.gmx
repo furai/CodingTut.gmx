@@ -54,7 +54,19 @@
 }
 else
 {
-    if y &gt; room_height room_restart();
+    if y &gt; room_height 
+    {
+        lives -=1;
+        if lives &lt; 1
+        {
+            room_restart();
+        }
+        else
+        {
+            instance_create(obj_Bat.x, obj_Bat.y - 28, obj_Ball);
+            instance_destroy();
+        }
+    }
 }
 </string>
           </argument>
@@ -107,6 +119,7 @@ speed = 5;
             <kind>1</kind>
             <string>move_bounce_all(true);
 with (other) instance_destroy();
+score += 10;
 </string>
           </argument>
         </arguments>
