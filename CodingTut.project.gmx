@@ -12,7 +12,10 @@
     <sprite>sprites\spr_Wall</sprite>
     <sprite>sprites\spr_Score</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bck_Stars</background>
+    <background>background\bck_Tiles</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_Wall</object>
@@ -30,6 +33,6 @@
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>8</TutorialPage>
+    <TutorialPage>9</TutorialPage>
   </TutorialState>
 </assets>
