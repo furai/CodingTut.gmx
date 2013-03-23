@@ -110,7 +110,7 @@ else alarm[0] = 1;
           <argument>
             <kind>1</kind>
             <string>draw_self();
-draw_sprite(spr_Play, 0, x, 160);
+draw_sprite(spr_Titles, 0, x, 160);
 draw_text( x, 440, "Hi-Score : " + string(hiscore));
 draw_set_alpha(alpha);
 draw_rectangle(0, 0, room_width, room_height, false);

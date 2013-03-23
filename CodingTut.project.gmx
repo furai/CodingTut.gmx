@@ -31,6 +31,7 @@
     <object>objects\obj_Intro</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_Intro</room>
     <room>rooms\rm_Game</room>
   </rooms>
   <help>
@@ -39,6 +40,6 @@
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>11</TutorialPage>
+    <TutorialPage>13</TutorialPage>
   </TutorialState>
 </assets>

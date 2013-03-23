@@ -59,7 +59,7 @@ else
         lives -=1;
         if lives &lt; 1
         {
-            room_restart();
+            with (obj_Control) go = false;
         }
         else
         {
