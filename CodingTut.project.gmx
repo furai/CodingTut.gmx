@@ -11,6 +11,8 @@
     <sprite>sprites\spr_Brick</sprite>
     <sprite>sprites\spr_Wall</sprite>
     <sprite>sprites\spr_Score</sprite>
+    <sprite>sprites\spr_Titles</sprite>
+    <sprite>sprites\spr_Play</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Stars</background>
@@ -33,6 +35,6 @@
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>D:\Programmes\GameMaker\GameMaker-Studio\Tutorials\YoYo Games 0003 - Coding Tutorial</TutorialName>
-    <TutorialPage>12</TutorialPage>
+    <TutorialPage>10</TutorialPage>
   </TutorialState>
 </assets>
